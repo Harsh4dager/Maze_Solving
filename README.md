@@ -42,16 +42,16 @@ Here are examples of mazes solved using different algorithms:
 
 ### DFS Solution
 
-![DFS Solution](images/dfs_solution.png)
+[![1.png](https://i.postimg.cc/3Jbx5R3F/1.png)](https://postimg.cc/F7340hdY)
 
 ### BFS Solution
 
-![BFS Solution](images/bfs_solution.png)
+[![2.png](https://i.postimg.cc/XYRNqzGZ/2.png)](https://postimg.cc/MnYJrtYx)
 
 ### GBFS Solution
 
-![GBFS Solution](images/gbfs_solution.png)
+[![3.png](https://i.postimg.cc/WzYTvWc1/3.png)](https://postimg.cc/m1903Srv)
 
 ### A* Solution
 
-![A* Solution](images/astar_solution.png)
+[![4.png](https://i.postimg.cc/tRvj7M8X/4.png)](https://postimg.cc/JtXg2P1g)
